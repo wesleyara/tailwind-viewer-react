@@ -30,8 +30,7 @@
   display: flex;
   position: absolute;
   top: 4px;
-  right: 50%;
-  transform: translateX(50%);
+  right: 20px;
 }
 
 .expanded {
